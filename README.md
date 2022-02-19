@@ -1,6 +1,7 @@
 # 10_days_of_Python
 
 The main objective of this file is to save my solutions. and look back into past from future widnow what  have had done.
+Being highly impatient I'll try to finish the course withing couple of weeks and at the same I'm too lazy!!
 
 |Day|Codes|
 |---|---|
