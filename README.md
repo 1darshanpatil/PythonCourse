@@ -1,4 +1,4 @@
-# 10_days_of_Python
+# X_days_of_Python
 
 The main objective of this file is to save my solutions and look back into the past from future windows what had done.
 Being highly impatient I'll try to finish the course within a couple of weeks as at the same.
