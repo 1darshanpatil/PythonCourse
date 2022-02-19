@@ -1,5 +1,8 @@
 # X_days_of_Python
 
+* The course is 
+# 100 Days of Code: The Complete Python Pro Bootcamp for 2022: 
+
 The main objective of this file is to save my solutions and look back into the past from future windows what had done.
 Being highly impatient I'll try to finish the course within a couple of weeks as at the same.
 I'm too lazy!!
