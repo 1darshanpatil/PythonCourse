@@ -1,6 +1,6 @@
 # 10_days_of_Python
 
-The main objective of this file is to save my solutions. and look back into past from future days what  have had done.
+The main objective of this file is to save my solutions. and look back into past from future widnow what  have had done.
 
 |Day|Codes|
 |---|---|
