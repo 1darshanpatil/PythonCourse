@@ -1,4 +1,4 @@
-import Menu
+#import Menu
 W, M, C, COST = 800, 500, 150, 0.0
 class TakingMoney():
     Drinks = {"Latte": {"WATER": 200, "MILK": 150, "COFFEE": 24, "MONEY": 25,},
