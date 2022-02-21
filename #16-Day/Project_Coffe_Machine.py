@@ -38,22 +38,35 @@ def takingMoney(drink_):
     if drink_ == "Espresso":
         price = 15
     if price > total_:
-        print(f"Not enough to buy ₹{drink_}, you need ₹{price - total_} more\n ₹{total_} has been refunded.")
+        print(f"Not enough to buy {drink_}, you need ₹{price - total_} more\n Your sum of ₹{total_} has been refunded.")
         return False
     if updateResource(drink_):
-        print(f"Enjoy your {drink}☕")
+        print(f"Enjoy Your {drink}☕!")
         print(f"Don't forget to take your change ₹{total_ - price}")
 
 
 
 
 while True:
-    print("What would you like to have \n Latte: ₹25 \n Espresso: ₹15 \n Cappuccino: ₹30 ")
+    print("----------------------------")
+    print("What would you like to have \n☕Latte: ₹25 \n☕Espresso: ₹15 \n☕Cappuccino: ₹30\n----------------------------")
     drink = input()
     if drink in ['Latte', 'Espresso', 'Cappuccino']:
         takingMoney(drink)
     elif drink == 'report':
         repo = f"Water: {WATER}\nmilk:{MILK}\ncoffe: {COFFEE}\nmoney: {MONEY}"
-        print(repo)
+        report_ = f'''
+        +------------+-----------+
+        | Water      |{WATER}  {" "*(9 - len(str(WATER)))}|
+        +------------+-----------+
+        | Milk       |{MILK}  {" "*(9 - len(str(MILK)))}|
+        +------------+-----------+
+        | Coffee     |{COFFEE}  {" "*(9 - len(str(COFFEE)))}|
+        +------------+-----------+
+        | Money      |{MONEY}  {" "*(9 - len(str(MONEY)))}|
+        +------------+-----------+
+        '''
+        print(report_)
     else:
         print("Please choose correct option.")
+
