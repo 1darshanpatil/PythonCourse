@@ -41,7 +41,7 @@ def takingMoney(drink_):
         print(f"Not enough to buy {drink_}, you need ₹{price - total_} more\n Your sum of ₹{total_} has been refunded.")
         return False
     if updateResource(drink_):
-        print(f"Enjoy Your {drink}☕!")
+        print(f"\nEnjoy Your {drink}☕!")
         print(f"Don't forget to take your change ₹{total_ - price}")
 
 
