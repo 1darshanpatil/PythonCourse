@@ -12,3 +12,7 @@ I'm too lazy!!
 | 1 | [#1-Day](https://github.com/1darshanpatil/10_days_of_Python/tree/main/%231-Day) |
 |2|[#2-Day](https://github.com/1darshanpatil/10_days_of_Python/tree/main/%232-Day)|
 |3|[#3-Day](https://github.com/1darshanpatil/10_days_of_Python/tree/main/%233-Day)|
+|4|[#4-Day](https://github.com/1darshanpatil/X_days_of_Python/tree/main/%234-Day)|
+|5|[$5-Day](https://github.com/1darshanpatil/X_days_of_Python/tree/main/%235-Day)|
+|12|[#12-Day](https://github.com/1darshanpatil/X_days_of_Python/tree/main/%2312-Day)|
+|16|[#16-Day](https://github.com/1darshanpatil/X_days_of_Python/tree/main/%2316-Day)|
