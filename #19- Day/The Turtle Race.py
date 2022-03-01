@@ -27,11 +27,12 @@ for i in range(5):
 
 #Drawing the end of game The end line
 pn = T.Turtle()
+pn.hideturtle()
 pn.penup()
 pn.goto(race_ends_x, 200)
 pn.right(90)
 pn.pendown()
-pn.hideturtle()
+#pn.hideturtle()
 pn.fd(400)
 
 
