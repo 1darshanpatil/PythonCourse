@@ -19,5 +19,5 @@ I'm too lazy!!
 |17|[#17-Day](https://github.com/1darshanpatil/X_days_of_Python/tree/main/%2317-Day)|
 |18|[#18-Day](https://github.com/1darshanpatil/X_days_of_Python/tree/main/%2318-Day) |
 |19|[#19-Day](https://github.com/1darshanpatil/X_days_of_Python/tree/main/%2319-%20Day) |
-
+|25|[#25-Day](https://github.com/1darshanpatil/X_days_of_Python/tree/main/%2325-Day)|
 
